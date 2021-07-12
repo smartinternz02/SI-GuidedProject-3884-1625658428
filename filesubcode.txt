@@ -1,7 +1,0 @@
-echo "# SI-GuidedProject-3884-1625658428" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/smartinternz02/SI-GuidedProject-3884-1625658428.git
-git push -u origin main
